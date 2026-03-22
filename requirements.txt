@@ -1,0 +1,9 @@
+Flask
+requests
+Pillow
+gunicorn
+httpx
+Flask-Cors
+cachetools
+protobuf
+pycryptodome
